@@ -1,0 +1,2 @@
+# RiswanTranslator
+Translator app
